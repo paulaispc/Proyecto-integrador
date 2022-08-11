@@ -1,4 +1,4 @@
-**Resumen de Conceptos:**
+##**Resumen de Conceptos:**
 
 **Scrum:**
 Es una enfoque ágil para la gestión de un proyecto. Más que una metodología o proceso, es un Marco de Trabajo.
